@@ -1,0 +1,13 @@
+font-family = "JetBrains Mono"
+theme = macchiato.conf
+mouse-hide-while-typing = true
+
+macos-titlebar-style = hidden
+# window-decoration = false
+
+# background-opacity = 0.6
+# background-blur = 30
+window-padding-x = 5
+window-padding-y = 5 
+
+macos-window-shadow = true 
